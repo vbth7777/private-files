@@ -1,0 +1,14 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+khaithien:Khải Thiên
+vihoa:Vĩ Hòa
+daovihoa:Đào Vĩ Hòa
+thanhvien:Thanh Viễn
+hanthanhvien:Hàn Thanh Viễn
+hethong:[Hệ Thống]
+vannang:[Vạn Năng]
+thuphuc:[Thu Phục]
+thuphuckem:[Thu Phục Kém]
+thuphucyeu:[Thu Phục Yếu]
+thuphuctrung:[Thu Phục Trung]
+thuphuckha:[Thu Phục Khá]
+thuphuccao:[Thu Phục Cao]
