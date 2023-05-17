@@ -1,5 +1,6 @@
 #!/bin/bash
 cd ~/.config/
+# Configs
 rm -rf bspwm nvim fish picom polybar alacritty mpv
 git clone https://github.com/vbth7777/my-bspwm-config
 git clone https://github.com/vbth7777/my-fish-config
@@ -15,3 +16,5 @@ mv my-picom-config picom
 mv my-polybar-config polybar
 mv my-alacritty-config alacritty
 mv mpv-configure mpv
+# Dependencies
+git clone https://github.com/vbth7777/private-files
