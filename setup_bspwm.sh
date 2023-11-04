@@ -1,6 +1,7 @@
 #!/bin/bash
 cd ~/.config/
 # Configs
+sudo pacman -S neovim fish alacritty polybar mpv picom
 rm -rf bspwm nvim fish picom polybar alacritty mpv
 git clone https://github.com/vbth7777/my-bspwm-config
 git clone https://github.com/vbth7777/my-fish-config
