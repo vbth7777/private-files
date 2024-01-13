@@ -18,5 +18,6 @@ git clone https://github.com/vbth7777/mpv-configure mpv
 # mv my-polybar-config polybar
 # mv my-alacritty-config alacritty
 # mv mpv-configure mpv
+
 # Dependencies
-# git clone https://github.com/vbth7777/private-files
+git clone https://github.com/vbth7777/private-files
