@@ -37,6 +37,7 @@ aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/d
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/download/models/597138?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=92f89fe23673363606c9316a9939ee2e" # Anima pencil XL
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/download/models/549113?type=Model&format=SafeTensor&size=full&fp=fp16&token=92f89fe23673363606c9316a9939ee2e" # AingDiffusion XL
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=92f89fe23673363606c9316a9939ee2e" # Pony Diffusion XL
+
 # Download VAE
 mkdir ~/StableSwarmUI/Models/VAE
 cd ~/StableSwarmUI/Models/VAE
@@ -49,6 +50,9 @@ cd ~/StableSwarmUI/Models/Lora
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/download/models/586723?type=Model&format=SafeTensor&token=92f89fe23673363606c9316a9939ee2e" # Before and after XL
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/download/models/177544?type=Model&format=SafeTensor&token=92f89fe23673363606c9316a9939ee2e" # LineAniRedmond XL
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/download/models/577222?type=Model&format=SafeTensor&token=92f89fe23673363606c9316a9939ee2e" # Rosa XL
+aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/download/models/471794?type=Model&format=SafeTensor&token=92f89fe23673363606c9316a9939ee2e" # Rosa XL
+aria2c --console-log-level=error -c -x 16 -s 16 -k 1M "https://civitai.com/api/download/models/471794?type=Model&format=SafeTensor&token=92f89fe23673363606c9316a9939ee2e" # Rosa XL
+
 # Download Embed
 mkdir ~/StableSwarmUI/Models/Embeddings
 cd ~/StableSwarmUI/Models/Embeddings
